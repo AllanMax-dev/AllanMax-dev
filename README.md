@@ -1,44 +1,64 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Allan%20Max&fontColor=ffffff&fontSize=36"/>
+<!-- ===================== -->
+<!-- BANNER DO PERFIL -->
+<!-- ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Allan%20Max&fontColor=ffffff&fontSize=44&desc=Backend%20Developer%20%7C%20Python%20%7C%20Django&descAlignY=65&descSize=18" />
 
-## 👨‍💻 Allan Max
-**Software Developer | Python | Django | Sistemas Web**
-
-Sou desenvolvedor com foco em backend e aplicações web, utilizando **Python e Django**, com experiência em projetos acadêmicos e colaborativos envolvendo **CRUD completo**, organização de código, versionamento com Git/GitHub e boas práticas de desenvolvimento.
-
-Tenho interesse em sistemas bem estruturados, escaláveis e com aplicação prática, especialmente em contextos como **gestão, automação e sistemas hospitalares**.
-
----
-
-## 🧠 Tecnologias & Ferramentas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-0B7285?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRUD-343A40?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git%2FGitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 📌 Projetos em Destaque
-🔹 **Sistema Hospitalar em Django**  
-Aplicação web desenvolvida em equipe, simulando um ambiente de gestão hospitalar com:
-- Cadastro, edição, visualização e exclusão de pacientes, médicos e consultas  
-- Arquitetura MVC do Django  
-- Versionamento colaborativo com Git/GitHub  
+## 👨‍💻 Sobre mim
 
-👉 Repositório: https://lnkd.in/dSZWTz7g
+Sou desenvolvedor com foco em **backend**, utilizando **Python e Django**, com experiência em projetos acadêmicos e colaborativos.  
+Atuo no desenvolvimento de aplicações web com **CRUD completo**, organização de código, versionamento com **Git/GitHub** e boas práticas de desenvolvimento.
+
+Interesso-me por sistemas bem estruturados, escaláveis e aplicáveis a cenários reais, como **sistemas de gestão e soluções hospitalares**.
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🏥 Sistema Hospitalar — Django CRUD
+Sistema web desenvolvido em equipe simulando um ambiente básico de gestão hospitalar.
+
+**Funcionalidades:**
+- Cadastro, edição, visualização e exclusão de pacientes
+- Gerenciamento de médicos e consultas
+- Estrutura MVC do Django
+- Versionamento colaborativo com Git/GitHub
+
+🔗 Repositório:  
+https://github.com/CaioAmorim-dev/django-hospital-crud
 
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AllanMax-dev&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanMax-dev&layout=compact&theme=tokyonight"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AllanMax-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanMax-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🔗 Contato
-<a href="https://www.linkedin.com/allan-max-jrl">
-  <img src="https://img
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/allan-max-jrl/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<!-- ===================== -->
+<!-- FOOTER -->
+<!-- ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />
