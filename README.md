@@ -41,10 +41,15 @@ https://github.com/CaioAmorim-dev/django-hospital-crud
 ## 🔗 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/allan-max-jrl/" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:allanjlima4@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+📫 Aberto a oportunidades de **estágio**, **projetos acadêmicos** e **colaboração em projetos backend**.
 
 <!-- ===================== -->
 <!-- FOOTER -->
