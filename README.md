@@ -41,11 +41,17 @@ https://github.com/CaioAmorim-dev/django-hospital-crud
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllanMax-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AllanMax-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats Allan Max"
+  />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanMax-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanMax-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Top Languages Allan Max"
+  />
 </p>
 
 ---
