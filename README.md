@@ -114,15 +114,15 @@ Atualmente estou aprofundando meus estudos em:
 
 <div align="center">
 
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AllanMax-dev&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AllanMax-dev&theme=tokyonight&v=2" />
 
   <br><br>
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AllanMax-dev&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AllanMax-dev&theme=tokyonight&v=2" />
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AllanMax-dev&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AllanMax-dev&theme=tokyonight&v=2" />
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AllanMax-dev&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AllanMax-dev&theme=tokyonight&v=2" />
 
 </div>
 
